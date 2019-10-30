@@ -6,6 +6,9 @@ Lang:Javascript
 <br>
      ---three.js library.
 <br>
+<h2>Main Features<h2>
+<p>1. You can zoom in and zoom out.</p>
+<p>2. You can rotate the molecule to have a view from different angles </p>
      
 <b>Bibliography</b>:
 <br>
